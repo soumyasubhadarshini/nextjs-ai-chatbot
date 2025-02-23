@@ -4,7 +4,7 @@
 </a>
 
 <p align="center">
-  An Open-Source AI Chatbot Template Built With Next.js and the AI SDK by Vercel.
+  An Open-Source AI Chatbot Template Built With Next.js and the AI SDK by soumyasubhadarshini.
 </p>
 
 <p align="center">
